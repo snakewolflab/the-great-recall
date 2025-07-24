@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Shattered_Echoes-Developed-A9A9A9)
+![Static Badge](https://img.shields.io/badge/Shattered_Echoes-Developing-A9A9A9)
 # The Great Recall
 ## あらすじ
 平和な地球に突如として現れた **「異空間への穴」** 。それは人々の「記憶」によって構成され、中からは記憶が具現化した不気味な存在が次々と姿を現し始めた。世界は未曽有の危機に瀕し、対抗するために特攻組織 **「レムナント」** を結成。彼らは異空間の閉鎖と、囚われた要救助者の救出を目的として、部隊を送り込む。
